@@ -1,6 +1,6 @@
 {
     "name": "gregoriol/business-days-france",
-    "description": "Computes calendar business days/holidays in France"
+    "description": "Computes calendar business days/holidays in France",
     "license": "BSD-2-Clause",
     "require": {
         "php": "^7.0"
