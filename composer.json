@@ -1,0 +1,11 @@
+{
+    "name": "business-days-france",
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BusinessDaysFrance\\": "src/BusinessDaysFrance/"
+        }
+    }
+}
