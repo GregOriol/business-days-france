@@ -3,7 +3,7 @@
     "description": "Computes calendar business days/holidays in France",
     "license": "BSD-2-Clause",
     "require": {
-        "php": "^7.0"
+        "php": "^7.0|^8.0"
     },
     "autoload": {
         "psr-4": {
